@@ -1,0 +1,10 @@
+# ===== BACKEND =====
+Backend/node_modules
+Backend/.env
+
+# ===== FRONTEND =====
+Frontend/node_modules
+
+# ===== OPTIONAL =====
+.DS_Store
+.env
