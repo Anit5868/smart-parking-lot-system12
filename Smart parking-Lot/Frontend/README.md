@@ -10,6 +10,9 @@ cd Backend
 npm install
 npm start
 
+## 🚀 Live Demo
+Frontend: https://smart-parking-lot-system-frontend-krwp.onrender.com 
+Backend:  https://smart-parking-lot-system12-1.onrender.com
 ### Frontend
 cd Frontend
 npm install
